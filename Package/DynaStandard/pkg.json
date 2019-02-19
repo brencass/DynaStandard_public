@@ -3,7 +3,7 @@
   "file_hash": null,
   "name": "DynaStandard",
   "version": "1.0.0",
-  "description": "A Extension to browse graph content, start a graph from a standard file or read standard document",
+  "description": "A Extension to browse graph content, start a graph from a standard file or read standard document. For more information or reporting of a bug please visit the github page setup for this project https://github.com/brencass/DynaStandard_public/",
   "group": "",
   "keywords": [ "dynastandard", "dynamo", "content", "library", "standard" ],
   "dependencies": [],
