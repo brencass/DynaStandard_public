@@ -1,0 +1,4 @@
+﻿<ViewExtensionDefinition>
+  <AssemblyPath>..\bin\DynaStandard.dll</AssemblyPath>
+  <TypeName>DynaStandard.DynaStandardViewExtension</TypeName>
+</ViewExtensionDefinition>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <settings>
+    <!--Addin Settings-->
+    <dynastandard>
+      <PDFGuidePath>NA</PDFGuidePath>
+      <DynoContentLocationPath>NA</DynoContentLocationPath>
+      <DynoTemplateLocation>NA</DynoTemplateLocation>
+    </dynastandard>
+    
+    <!--Title Information to extract information from company graph information tab-->
+    <!--Titles need to be excatly what the are on your graph standard(case and spacing sensitive)-->
+    <graphstandard>
+      <createdby>NA</createdby>
+      <dynaver>NA</dynaver>
+      <revver>NA</revver>
+      <dynapurpose>NA</dynapurpose>
+      <fileforce>NA</fileforce>
+    </graphstandard>
+  </settings>
+
+
