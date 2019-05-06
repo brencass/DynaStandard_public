@@ -1,6 +1,8 @@
 # DynaStandard_public
 This Dynamo extension was developed to create a Dynamo content library to help distribute this content to all, have easy access to graph(s) templates and any standard documentation related to dynamo.
 
+Video: https://autode.sk/2V6ReB3
+
 #### Note:
 
 When i started this extension i wasnt sure if i would release the code or not, well i have made a choice that i will release the code. Though this is likely to happen after i have done the switch the forms to wpf windows, sorted some code out and released a comfortable version for package manager.
