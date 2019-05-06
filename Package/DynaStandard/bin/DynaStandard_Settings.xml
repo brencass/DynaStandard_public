@@ -6,6 +6,10 @@
       <DynaContentLocationPath>NA</DynaContentLocationPath>
       <DynaTemplateLocation>NA</DynaTemplateLocation>
       <DynaPythonTemplateLoc>NA</DynaPythonTemplateLoc>
+
+      <!--DynaPythonTemplateOption will set which python template implemention is to be utilise-->
+      <!--all == all 3 types, 1 == option 1, 2 == option 2 and 3 == option 3-->
+      <DynaPythonTemplateOption>all</DynaPythonTemplateOption>
     </dynastandard>
     
     <!--Title Information to extract information from company graph information tab-->
