@@ -5,7 +5,7 @@ Video: https://autode.sk/2V6ReB3
 
 #### Note:
 
-When i started this extension i wasnt sure if i would release the code or not, well i have made a choice that i will release the code. Though this is likely to happen after i have done the switch the forms to wpf windows, sorted some code out and released a comfortable version for package manager.
+When i started this extension i wasnt sure if i would release the code or not, well i have made a choice that i will release the code. Though this is likely to happen after i have done switched the forms to wpf windows, sorted some code out and released a comfortable version for package manager.
 
 
 #### This info page will be updated with more information in due course 
