@@ -1,7 +1,8 @@
 # DynaStandard_public
 This Dynamo extension was developed to create a Dynamo content library to help distribute this content to all, have easy access to graph(s) templates, any standard documentation related to dynamo, and now automatically sets new/opening of graphs to "manual" run without any more worry for if it is or not. 
 
-Video: https://autode.sk/2V6ReB3
+Video showing all other features: https://autode.sk/2V6ReB3
+
 Video of the new Auto set Manual feature: https://autode.sk/2MDlxOY
 
 #### Note:
