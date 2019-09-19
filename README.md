@@ -14,7 +14,7 @@ When i started this extension i wasnt sure if i would release the code or not, w
 
 ---
 #### Contributors
-This dynamo extension is currently managed solely by Brendan Cassidy
+This dynamo extension is currently managed solely by [Brendan Cassidy](https://github.com/brencass)
 
 ---
 #### Install or Update in Dynamo  
