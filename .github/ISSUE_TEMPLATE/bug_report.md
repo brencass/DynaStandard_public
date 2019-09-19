@@ -1,24 +1,17 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
-
 ---
+### What happened
+Indicate what had happened with a description of the bug.
 
-### Operating system
-(e.g. Windows 7, Windows 10, etc)
+### How To Repoduce Bug
+Indicate the path you took to have the bug highlight it's self.
 
-### Dynamo version
-(Which version of Dynamo are you using? Go to Help > About if you're not sure. 
-Dynamo: x.x.x.x
+### System Info
+- Operating System: ....
+- Dynamo Version: ....
+- DynaStandard Version: ....
 
-### What did you do? 
-(Fill in here)
 
-### What did you expect to see?
-(Fill in here)
-
-### What did you see instead?
-(Fill in here)
+#### The more information you provide, the easier it will be to reproduce and fix the issue
