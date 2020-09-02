@@ -2,18 +2,32 @@
   <settings>
     <!--Addin Settings-->
     <dynastandard>
-      <DynaPDFGuidePath>NA</DynaPDFGuidePath>
-      <DynaContentLocationPath>NA</DynaContentLocationPath>
-      <DynaTemplateLocation>NA</DynaTemplateLocation>
-      <DynaPythonTemplateLoc>NA</DynaPythonTemplateLoc>
+      <dynapdfguidepath>NA</dynapdfguidepath>
+      <dynacontentlocationpath>NA</dynacontentlocationpath>
+      <dynatemplatelocation>NA</dynatemplatelocation>
+      <dynapythontemplateloc>NA</dynapythontemplateloc>
 
       <!--DynaPythonTemplateOption will set which python template implemention is to be utilise-->
-      <!--all == all 3 types, 1 == option 1, 2 == option 2 and 3 == option 3-->
-      <DynaPythonTemplateOption>all</DynaPythonTemplateOption>
+      <!--1 == option 1, 2 == option 2 and 3 == option 3-->
+      <dynapythontemplateoption>3</dynapythontemplateoption>
       
       <!--DynaRunTypeSetting will allow you to set -->
       <!--off == Not used, new == Only on new graphs, all == All graphs-->
-      <DynaRunTypeSetting>new</DynaRunTypeSetting>
+      <dynaruntypesetting>new</dynaruntypesetting>
+
+      <!--DynaForceReRunSetting will set if the force run system will work or not -->
+      <dynaforcererunsetting>On</dynaforcererunsetting>
+
+      <!--DynaPythonReRunMenu will set if the force run menu will display -->
+      <dynapythonrerunmenu>On</dynapythonrerunmenu>
+      
+      <!--Adds Company Package Location into Custom Folder Path in Dynamo-->
+      <!--Set location settings to On or Off depending on your requirements-->
+      <dynapackagelocationsetting>Off</dynapackagelocationsetting>
+      <!--Will add a folder for dynamo major and minor version (eg 2.3.1 would be 2.3) onto
+          dynamo packagge location given below below if set to true, set to false if not used-->
+      <dynapackageusecurrentdynver>False</dynapackageusecurrentdynver>
+      <dynapackagelocationpath>NA/dynapackagelocationpath>
     </dynastandard>
     
     <!--Title Information to extract information from company graph information tab-->
@@ -24,7 +38,7 @@
       <revver>NA</revver>
       <dynapurpose>NA</dynapurpose>
       <fileforce>NA</fileforce>
-	  <packages>NA</packages>
+      <packages>NA</packages>
     </graphstandard>
   </settings>
 
