@@ -1,5 +1,5 @@
 # DynaStandard_public
-This Dynamo extension was developed to create a Dynamo content library to help distribute this content to all, have easy access to graph(s) templates, any standard documentation related to dynamo, and now automatically sets new/opening of graphs to "manual" run without any more worry for if it is or not. 
+The original idea for my Dynamo extension was to develop a Dynamo content library to help distribute content to all, have easy access to graph templates and any standard documentation related to dynamo. The remit has expanded to include a way to automatically set scripts to manual when opened, set custom package location and a way to re-run dynamo scripts without closing and reopening them. 
 
 Video showing all other features: https://autode.sk/2V6ReB3
 
