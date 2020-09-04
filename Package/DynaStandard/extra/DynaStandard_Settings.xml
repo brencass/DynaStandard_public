@@ -27,7 +27,7 @@
       <!--Will add a folder for dynamo major and minor version (eg 2.3.1 would be 2.3) onto
           dynamo packagge location given below below if set to true, set to false if not used-->
       <dynapackageusecurrentdynver>False</dynapackageusecurrentdynver>
-      <dynapackagelocationpath>NA/dynapackagelocationpath>
+      <dynapackagelocationpath>NA</dynapackagelocationpath>
     </dynastandard>
     
     <!--Title Information to extract information from company graph information tab-->
